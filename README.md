@@ -2,4 +2,4 @@
 
 <h3>HTML/CSS Project: Google Homepage</h3>
 
-<a href="https://github.com/derekhammondkc/google-homepage">Project Link</a>
+<a href="http://derekhammondkc.github.io/google-homepage/">Project Link</a>
